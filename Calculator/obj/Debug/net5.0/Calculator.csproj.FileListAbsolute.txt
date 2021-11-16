@@ -1,0 +1,12 @@
+/Users/iasemin-florin/Projects/Calculator/Calculator/bin/Debug/net5.0/Calculator.deps.json
+/Users/iasemin-florin/Projects/Calculator/Calculator/bin/Debug/net5.0/Calculator.dll
+/Users/iasemin-florin/Projects/Calculator/Calculator/bin/Debug/net5.0/ref/Calculator.dll
+/Users/iasemin-florin/Projects/Calculator/Calculator/bin/Debug/net5.0/Calculator.pdb
+/Users/iasemin-florin/Projects/Calculator/Calculator/obj/Debug/net5.0/Calculator.csproj.AssemblyReference.cache
+/Users/iasemin-florin/Projects/Calculator/Calculator/obj/Debug/net5.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iasemin-florin/Projects/Calculator/Calculator/obj/Debug/net5.0/Calculator.AssemblyInfoInputs.cache
+/Users/iasemin-florin/Projects/Calculator/Calculator/obj/Debug/net5.0/Calculator.AssemblyInfo.cs
+/Users/iasemin-florin/Projects/Calculator/Calculator/obj/Debug/net5.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/iasemin-florin/Projects/Calculator/Calculator/obj/Debug/net5.0/Calculator.dll
+/Users/iasemin-florin/Projects/Calculator/Calculator/obj/Debug/net5.0/ref/Calculator.dll
+/Users/iasemin-florin/Projects/Calculator/Calculator/obj/Debug/net5.0/Calculator.pdb
