@@ -1,18 +1,26 @@
 ﻿<Properties StartupConfiguration="{A9E8FFCD-E068-4E2C-8FC6-77760CA8D1D8}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator.tests/CalcTest.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/Calculator.cs">
     <Files>
-      <File FileName="Calculator/Class1.cs" />
-      <File FileName="Calculator.tests/CalcTest.cs" Line="10" Column="24" />
+      <File FileName="Calculator.tests/CalcTest.cs" Line="11" Column="10" />
+      <File FileName="Calculator/Calculator.cs" Line="15" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Calculator" expanded="True">
-            <Node name="Calculator" expanded="True" />
+            <Node name="Calculator" expanded="True">
+              <Node name="Calculator.cs" selected="True" />
+            </Node>
             <Node name="Calculator.tests" expanded="True">
               <Node name="Dependencies" expanded="True" />
-              <Node name="CalcTest.cs" selected="True" />
             </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Calculator" expanded="True" selected="True">
+            <Node name="Calculator.tests" expanded="True" />
           </Node>
         </State>
       </Pad>

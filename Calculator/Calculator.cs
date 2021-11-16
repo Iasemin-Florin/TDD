@@ -6,12 +6,12 @@ namespace Calculator
     {
         public static double Addition(double num1, double num2)
         {
-            throw new NotImplementedException();
+            return num1 + num2;
         }
 
         public static double Subtraction(double num1, double num2)
         {
-            throw new NotImplementedException();
+            return num1 - num2;
         }
 
         public static double Multiplication(double num1, double num2)
