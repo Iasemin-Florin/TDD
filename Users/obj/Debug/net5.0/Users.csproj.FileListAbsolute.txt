@@ -1,0 +1,12 @@
+/Users/iasemin-florin/Projects/Calculator/Users/bin/Debug/net5.0/Users.deps.json
+/Users/iasemin-florin/Projects/Calculator/Users/bin/Debug/net5.0/Users.dll
+/Users/iasemin-florin/Projects/Calculator/Users/bin/Debug/net5.0/ref/Users.dll
+/Users/iasemin-florin/Projects/Calculator/Users/bin/Debug/net5.0/Users.pdb
+/Users/iasemin-florin/Projects/Calculator/Users/obj/Debug/net5.0/Users.csproj.AssemblyReference.cache
+/Users/iasemin-florin/Projects/Calculator/Users/obj/Debug/net5.0/Users.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iasemin-florin/Projects/Calculator/Users/obj/Debug/net5.0/Users.AssemblyInfoInputs.cache
+/Users/iasemin-florin/Projects/Calculator/Users/obj/Debug/net5.0/Users.AssemblyInfo.cs
+/Users/iasemin-florin/Projects/Calculator/Users/obj/Debug/net5.0/Users.csproj.CoreCompileInputs.cache
+/Users/iasemin-florin/Projects/Calculator/Users/obj/Debug/net5.0/Users.dll
+/Users/iasemin-florin/Projects/Calculator/Users/obj/Debug/net5.0/ref/Users.dll
+/Users/iasemin-florin/Projects/Calculator/Users/obj/Debug/net5.0/Users.pdb
